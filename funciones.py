@@ -14,5 +14,13 @@ def adivinar_numero(numero_usuario, apuesta_usuario):
     # Si está incorrecto:
     elif numero_usuario < numero_cpu:
     # Decirle al usuario si está cerca o lejos del número
-
+        pass
     # Mostrarle los intentos que quedan
+    
+def blackJack(mazo=[], mazoDescarte=[]):
+    # Determinar si el mazo es >= 10
+    # Mientras el mazo sea mayor a diez se puede jugar
+    # Cuando el mazo disminuya de diez hacer un shuffle
+    # 
+    
+    pass
